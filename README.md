@@ -6,10 +6,10 @@ a) practice using javascript and react.
 b) learn how to manipulate svg files.
 c) have some fun coding!
 
-# User Story 1:
+## User Story 1:
 I want to see shapes generated on each mouse click.
 
-# User Story 2:
+## User Story 2:
 I would like to see more elements like colour and sound to add another dimension to the user experience.
 
 
