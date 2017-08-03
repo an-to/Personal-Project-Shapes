@@ -1,4 +1,4 @@
-# personal-project-rocketeer
+# personal-project-shapes
 Watch fractal shapes rocket around the page!
 
 ## Learning Objectives:
