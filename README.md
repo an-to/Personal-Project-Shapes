@@ -1,21 +1,26 @@
 # personal-project-shapes
-Watch fractal shapes rocket around the page!
 
 ## Learning Objectives:
-a) practice using javascript and react.
-b) learn how to manipulate svg files.
-c) have some fun coding!
+a) Practice creating animated circles using javascript.
+b) Have some fun coding!
 
 ## User Story 1:
-I want to see shapes generated on each mouse click.
+I want to see circless generated on click.
 
 ## User Story 2:
-I would like to see more elements like colour and sound to add another dimension to the user experience.
+Generate circles over a background image.
 
+## User Story 3:
+Change colours of circles.
+
+## User Story 4:
+Add sound effects to the circles as they generate.
+
+## User Story 5:
+Generate different shapes.
 
 ## Minimal Viable Product:
-a) shapes display correctly
+Circles display on page correctly.
 
 ## Stretch:
-a) add colours to each layer.
-b) add sound effects.
+User Stories 3, 4 & 5.
